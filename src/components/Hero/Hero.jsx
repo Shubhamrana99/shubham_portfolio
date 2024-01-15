@@ -8,7 +8,7 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I’m Shubham Rana</h1>
         <p className={styles.description}>
-          Aspiring Frontend Developer skilled in HTML, CSS, VanillaJS, Node, and
+          Aspiring Frontend Developer skilled in HTML, CSS, Vanilla-JS, and
           React. Let's connect for a glimpse into my coding journey!
         </p>
         {/*<p className={styles.description}>
