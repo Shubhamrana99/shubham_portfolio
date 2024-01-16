@@ -21,13 +21,13 @@ const Contact = () => {
         <li className={styles.link}>
           <img src={githubImg} alt="github" />
           <a href="https://github.com/Shubhamrana99/">
-            github.com/Shubhamrana99
+            @github.com/Shubhamrana99
           </a>
         </li>
         <li className={styles.link}>
           <img src={twitterImg} alt="twitter" />
           <a href="https://twitter.com/shubham19rana">
-            twitter.com/shubham19rana
+            @twitter.com/shubham19rana
           </a>
         </li>
       </ul>
