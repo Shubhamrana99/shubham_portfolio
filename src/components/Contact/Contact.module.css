@@ -9,7 +9,7 @@
   justify-content: space-evenly;
   width: 100vw;
   padding: 58px 10%;
-  gap: 10px;
+  gap: 50px;
 }
 
 .text h2 {
@@ -60,5 +60,9 @@
 
   .links {
     align-items: center;
+  }
+
+  .link a {
+    font-size: 18px;
   }
 }
