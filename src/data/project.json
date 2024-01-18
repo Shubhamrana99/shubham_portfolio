@@ -1,7 +1,7 @@
 [
   {
     "title": "BookNook_E-commerce",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/bookgem_project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["Html", "Css", "React"],
     "demo": "https://www.example.com",
@@ -17,17 +17,17 @@
   },
   {
     "title": "Note_App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/noteapp_project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Material-UI"],
+    "skills": ["Html", "React", "Material-UI"],
     "demo": "https://noteapp-shubhamrana.netlify.app/",
     "source": "https://github.com/Shubhamrana99/noteapp_project"
   },
   {
     "title": "Connect-4_Game",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/connect4_project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Html", "Css"],
+    "skills": ["Html", "Css", "React"],
     "demo": "https://connect4-shubhamrana.netlify.app/",
     "source": "https://github.com/Shubhamrana99/connect_4_project"
   }
