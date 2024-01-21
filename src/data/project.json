@@ -26,7 +26,7 @@
   {
     "title": "Connect-4_Game",
     "imageSrc": "projects/connect4_project.png",
-    "description": "This is a project made to learn the frontend languages by building an app.",
+    "description": "This is a project made to learn the react by building an app.",
     "skills": ["Html", "Css", "React"],
     "demo": "https://connect4-shubhamrana.netlify.app/",
     "source": "https://github.com/Shubhamrana99/connect_4_project"
