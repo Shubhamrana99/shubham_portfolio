@@ -18,7 +18,7 @@
   {
     "title": "Note_App",
     "imageSrc": "projects/noteapp_project.png",
-    "description": "Created a basic note app for easy organization.",
+    "description": "Making a simple app for easy note-taking and organization.",
     "skills": ["Html", "React", "Material-UI"],
     "demo": "https://noteapp-shubhamrana.netlify.app/",
     "source": "https://github.com/Shubhamrana99/noteapp_project"
