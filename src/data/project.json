@@ -2,7 +2,7 @@
   {
     "title": "BookNook_E-commerce",
     "imageSrc": "projects/bookgem_project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Bookgem is an E-commerce App to buy various categories books.",
     "skills": ["Html", "Css", "React"],
     "demo": "https://bookgem-shubhamrana.netlify.app/",
     "source": "https://github.com/Shubhamrana99/BookGem"
@@ -10,7 +10,7 @@
   {
     "title": "Portfolio_Project",
     "imageSrc": "projects/portfolio.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "I have created a portfolio website to showcase my work.",
     "skills": ["Html", "Css", "React", "vite"],
     "demo": "https://shubhamr-portfolio.netlify.app/",
     "source": "https://github.com/Shubhamrana99/shubham_portfolio"
@@ -18,7 +18,7 @@
   {
     "title": "Note_App",
     "imageSrc": "projects/noteapp_project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Creating a user-friendly note app for easy organization and quick note-taking.",
     "skills": ["Html", "React", "Material-UI"],
     "demo": "https://noteapp-shubhamrana.netlify.app/",
     "source": "https://github.com/Shubhamrana99/noteapp_project"
@@ -26,7 +26,7 @@
   {
     "title": "Connect-4_Game",
     "imageSrc": "projects/connect4_project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a project made to learn the frontend languages by building an app.",
     "skills": ["Html", "Css", "React"],
     "demo": "https://connect4-shubhamrana.netlify.app/",
     "source": "https://github.com/Shubhamrana99/connect_4_project"
